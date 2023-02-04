@@ -1,0 +1,1 @@
+this log file should not be ignored
