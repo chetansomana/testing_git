@@ -1,0 +1,1 @@
+second log file should be ignored
